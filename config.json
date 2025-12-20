@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "api_url": "https://test.commentverdict.com/api/v1",
+  "api_url": "https://api.commentverdict.com/api/v1",
   "portal_url": "https://app.commentverdict.com",
   "features": {
     "video_analysis": true,
