@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.1.0",
   "api_url": "https://api.commentverdict.com/api/v1",
   "portal_url": "https://app.commentverdict.com",
   "features": {
